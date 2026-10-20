@@ -1,7 +1,7 @@
 {
   "appId": "com.evy.ai",
   "appName": "Evy",
-  "webDir": ".",
+  "webDir": "www",
   "server": {
     "androidScheme": "https"
   },
